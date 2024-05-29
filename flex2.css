@@ -1,0 +1,50 @@
+.flex-container{
+    display: flex;
+    flex-direction: row;
+    width: 98vw;
+    margin-left: 0.5rem;
+    background-color: rgb(29, 29, 85);
+}
+.flexmenu{
+    display: flex;
+    flex-direction: column;
+    background-color:rgb(100, 100, 147) ;
+    justify-content: space-between;
+    width: 20%;
+}
+.flexmain{
+    display: flex;
+    margin-top: 2rem;
+    flex-direction: row;
+
+
+}
+.colflex{
+    display: flex;
+    flex-direction: column;
+}
+.smallflex{
+    display: flex;
+    flex-direction: column;
+    margin-top: -0.25rem;
+}
+.Dashboard{
+    margin-top: 2rem;
+    display: flex;
+    flex-direction: row;
+}
+.photo{
+    display:flex;
+    float: right;
+    margin-left: 55%;
+    margin-top: 2rem;
+}
+.main1{
+    border: 1rem solid rgb(100, 100, 147);
+    background-color: rgb(100, 100, 147);
+    width: 20%;
+    height: max-content;
+    display: flex;
+    flex-direction: row;
+    float: ;
+}
